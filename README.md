@@ -15,18 +15,20 @@
 <br/>
 
 Hi, I'm Chirag Shenoy, a Mobile App Developer📱from India, currently focusing on iOS app development. Prior iOS, I've worked on building Android and Flutter apps.
-I like to hustle and write neat code.
+I like to hustle and write neat code. I like to make life easier by automating using Technology!  
 
 <img align="right" alt="GIF" width="350px" src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47fp8v7trp0uj26inq5zyyeyelwvuvc3a8p8xuti12&rid=giphy.gif&ct=g" />
 
 **A little about me**
 - 👨‍💻 Building delightful mobile apps at _[ShareChat](https://we.sharechat.com)_ for over 80 Million Daily Active Users (DAU).
 - 📚 Parallely pursuing Masters In Computer Science from Georgia Tech.
-- 🕺 I've presented talks at 2 International Conferences on Flutter - _[Flutter Europe Conference - Poland](https://fluttereurope.dev)_ and _[FlutterExp](https://flutterexp.com)_ - Greece. The presentation can be found _[here](https://www.youtube.com/watch?v=Wi5pXmrMXyw)_. 
+- 🕺 I've presented talks at 2 International Conferences on Flutter - _[Flutter Europe Conference - Poland](https://fluttereurope.dev)_ and _[FlutterExp](https://youtu.be/PNda8EteHHQ)_ - Greece. The presentation can be found _[here](https://www.youtube.com/watch?v=Wi5pXmrMXyw)_. 
 - 🛠 AudioPicker - An opensource library for Flutter that I developed can be found _[here](https://github.com/chiragshenoy/audio_picker)_.
 - 🔭 I love fuelling life with photos and adventures. Here's a snapshot of it - _[Portfolio](https://www.instagram.com/chirag.shenoy/)_.
 - 📫 Reach me at : _chiragshenoy@gmail.com_.
 - ⚡ Fun fact: I'm a drone pilot, and I also love stock trading, trekking and sports.
-- 👨‍💼 Another fun fact - I've conducted over 100 Android/iOS interviews.
+- 👨‍💼 Another fun fact - I've conducted over 150 Android/iOS interviews.
+- 📈 For automating trades on the stock market, I've have built over 15 custom technical indicators using PineScript on TradingView. I've also built a Chrome extension, done a fair bit of data analysis using Panda, and run my own servers.
+- #PerfMatters! I love optimisting mobile apps!
 
 <br/>
