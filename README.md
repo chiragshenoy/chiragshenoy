@@ -15,7 +15,8 @@
 <br/>
 
 Hi, I'm Chirag Shenoy, a Mobile App Developer📱from India, currently focusing on iOS and Android app development.
-I like to hustle and write neat code. I like to make life easier by automating using Technology!  
+I've dipped my toes into AI workflows, creating 4 products for personal use.
+I like to hustle and write neat code. I like to make life easier by automating using Technology!
 
 <img align="right" alt="GIF" width="350px" src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47fp8v7trp0uj26inq5zyyeyelwvuvc3a8p8xuti12&rid=giphy.gif&ct=g" />
 
