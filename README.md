@@ -20,7 +20,9 @@ I like to hustle and write neat code. I like to make life easier by automating u
 <img align="right" alt="GIF" width="350px" src="https://media0.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47fp8v7trp0uj26inq5zyyeyelwvuvc3a8p8xuti12&rid=giphy.gif&ct=g" />
 
 **A little about me**
-- 👨‍💻 Building delightful mobile apps at _[ShareChat](https://we.sharechat.com)_ for over 80 Million Daily Active Users (DAU).
+- 📈 Engineering Manager at PhonePe - Heading the Growth team at [Share.Market](https://www.share.market/).
+- 💸 Lead the Turbo UPI SDK for [Razorpay](https://razorpay.com/docs/payments/payment-methods/upi/turbo-upi/).
+- 👨‍💻 Built delightful mobile apps at _[ShareChat](https://we.sharechat.com)_ for over 80 Million Daily Active Users (DAU).
 - 📚 Masters In Computer Science from Georgia Tech.
 - 🕺 I've presented talks at 2 International Conferences on Flutter - _[Flutter Europe Conference - Poland](https://fluttereurope.dev)_ and _[FlutterExp](https://youtu.be/PNda8EteHHQ)_ - Greece. The presentation can be found _[here](https://www.youtube.com/watch?v=Wi5pXmrMXyw)_. 
 - 🛠 AudioPicker - An opensource library for Flutter that I developed can be found _[here](https://github.com/chiragshenoy/audio_picker)_.
